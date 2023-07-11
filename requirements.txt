@@ -4,7 +4,6 @@ numpy
 tqdm
 statsmodels
 
-# 인열
 PyPortfolioOpt
 matplotlib
 scikit-learn
