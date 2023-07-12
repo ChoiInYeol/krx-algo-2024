@@ -3,3 +3,14 @@ pandas
 numpy
 tqdm
 statsmodels
+
+PyPortfolioOpt
+matplotlib
+scikit-learn
+cvxopt
+
+# GPU Computer
+# cuDNN 8.1.1
+# CUDA 11.1.1
+
+# tensorflow<2.11
