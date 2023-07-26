@@ -11,6 +11,7 @@ scikit-learn
 cvxopt
 
 pandas_ta
+xgboost
 
 # GPU Computer
 # cuDNN 8.1.1
