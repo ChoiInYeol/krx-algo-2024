@@ -1,4 +1,3 @@
-# 데이터 분석
 ipykernel
 pandas
 numpy
@@ -6,13 +5,11 @@ tqdm
 statsmodels
 yfinance
 
-# 최적화
 PyPortfolioOpt
 matplotlib
 scikit-learn
 cvxopt
 
-# 기술적 분석
 pandas_ta
 
 # GPU Computer
