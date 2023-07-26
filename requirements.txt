@@ -4,6 +4,7 @@ pandas
 numpy
 tqdm
 statsmodels
+yfinance
 
 # 최적화
 PyPortfolioOpt
