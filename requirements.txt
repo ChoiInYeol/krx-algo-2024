@@ -4,6 +4,7 @@ numpy
 tqdm
 statsmodels
 yfinance
+seaborn
 
 PyPortfolioOpt
 matplotlib
