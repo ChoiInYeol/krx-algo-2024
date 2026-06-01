@@ -215,4 +215,7 @@ pip install -r requirements.txt
 
 - 이 저장소는 노트북 중심의 실험 저장소입니다.
 - 대용량 학습 데이터와 제출 결과가 포함되어 있어 clone 및 checkout 시간이 길 수 있습니다.
+- `data/combined_train_4.csv`와 `data/train_adj.csv`는 Git LFS로 관리합니다.
+- `data/train.csv`는 약 57MB의 일반 Git 추적 파일입니다. GitHub 권장 용량보다 크므로, 추가 대용량 CSV를 커밋할 때는 LFS 추적 여부를 먼저 확인하세요.
+- 일부 노트북 출력에는 과거 로컬 절대경로가 남아 있을 수 있습니다. 새 환경에서 실행할 때는 데이터 경로를 현재 저장소 기준 상대경로로 맞춰 주세요.
 - `*.pkl`, 가상환경, 캐시 파일은 `.gitignore`로 제외합니다.
